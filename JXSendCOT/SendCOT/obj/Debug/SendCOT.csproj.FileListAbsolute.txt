@@ -1,0 +1,16 @@
+C:\Users\jonathan.bravetti.GEAR\Desktop\Jonxsoft\SendCOT\SendCOT\bin\Debug\SendCOT.dll
+C:\Users\jonathan.bravetti.GEAR\Desktop\Jonxsoft\SendCOT\SendCOT\bin\Debug\SendCOT.pdb
+C:\Users\jonathan.bravetti.GEAR\Desktop\Jonxsoft\SendCOT\SendCOT\bin\Debug\SendCOT.tlb
+C:\Users\jonathan.bravetti.GEAR\Desktop\Jonxsoft\SendCOT\SendCOT\obj\Debug\SendCOT.dll
+C:\Users\jonathan.bravetti.GEAR\Desktop\Jonxsoft\SendCOT\SendCOT\obj\Debug\SendCOT.pdb
+C:\Users\Administrador\Desktop\SendCOT_Einhell\SendCOT\obj\Debug\SendCOT.pdb
+C:\Users\Administrador\Desktop\SendCOT_Einhell\SendCOT\bin\Debug\SendCOT.dll
+C:\Users\Administrador\Desktop\SendCOT_Einhell\SendCOT\bin\Debug\SendCOT.pdb
+C:\Users\Administrador\Desktop\SendCOT_Einhell\SendCOT\bin\Debug\SendCOT.tlb
+C:\Users\Administrador\Desktop\SendCOT_Einhell\SendCOT\obj\Debug\SendCOT.dll
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\bin\Debug\SendCOT.dll
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\bin\Debug\SendCOT.pdb
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\bin\Debug\SendCOT.tlb
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\obj\Debug\SendCOT.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\obj\Debug\SendCOT.dll
+C:\Users\Administrador\Desktop\COT\COT\JXSendCOT\SendCOT\obj\Debug\SendCOT.pdb

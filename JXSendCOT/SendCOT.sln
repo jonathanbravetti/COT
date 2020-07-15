@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SendCOT", "SendCOT\SendCOT.csproj", "{DBDC49EA-8AB2-48B7-8AEE-EC8D8005D741}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "COTdll", "COTdll\COTdll.vdproj", "{11E1DEC2-5384-4F2B-8DCE-C915337E51C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDC49EA-8AB2-48B7-8AEE-EC8D8005D741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDC49EA-8AB2-48B7-8AEE-EC8D8005D741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDC49EA-8AB2-48B7-8AEE-EC8D8005D741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDC49EA-8AB2-48B7-8AEE-EC8D8005D741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11E1DEC2-5384-4F2B-8DCE-C915337E51C1}.Debug|Any CPU.ActiveCfg = Debug
+		{11E1DEC2-5384-4F2B-8DCE-C915337E51C1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
